@@ -23,6 +23,8 @@ console.log("HELP!");
 console.log("HELP!");
 console.log("HELP!");
 console.log("Stop it I don't like");
+console.log("Massive L");
+console.log("ur not sigma like me");
 
 //Variables
 
