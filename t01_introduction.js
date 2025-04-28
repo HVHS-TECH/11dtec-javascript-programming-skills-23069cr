@@ -22,7 +22,7 @@ console.log("HELP!");
 console.log("HELP!");
 console.log("HELP!");
 console.log("HELP!");
-console.log("HELP!");
+console.log("Stop it I don't like");
 
 //Variables
 
