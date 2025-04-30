@@ -25,9 +25,11 @@ let userYear = 2025;
 let userMoney = 364537;
 
 console.log("Hi ", userName,);
-console.log("As of ", userYear, "you are", userAge,);
+console.log("As of ", userYear, "you are", userAge, " years old");
+console.log("You were born in ", userYear - 167,);
+console.log("In 10 years you will be ", userAge + 10,);
 console.log("You have ", userMoney, " dollars");
-console.log("half of your money is ", userMoney,);
+console.log("half of your money is ", userMoney / 2,);
 //Variables
 
 
