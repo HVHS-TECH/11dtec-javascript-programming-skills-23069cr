@@ -1,5 +1,5 @@
 /*
-t02_maths.js Coby 30/04/2025, variables JavaScript
+t02_maths.js Coby 30/04/2025, Maths JavaScript
 */
 console.log(3 + 3)
 
