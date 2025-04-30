@@ -23,6 +23,11 @@ let userAge = 167;
 let userName = "Walter White";
 let userYear = 2025;
 let userMoney = 364537;
+
+console.log("Hi ", userName,);
+console.log("As of ", userYear, "you are", userAge,);
+console.log("You have ", userMoney, " dollars");
+console.log("half of your money is ", userMoney,);
 //Variables
 
 
