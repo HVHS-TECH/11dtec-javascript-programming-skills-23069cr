@@ -10,3 +10,4 @@ alert("What's your name. TELL ME NOW!!!!!!!!!")
 
 var userName = prompt("What is your name?\n Please tell me", "Bob")
 prompt("hello " + userName + "!\nplease type your fake name")
+prompt("please enter your age")
