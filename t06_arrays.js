@@ -1,3 +1,5 @@
 /*
-t06_arr.js Coby 1/05/2025, alerts and prompts JavaScript
+t06_arrays.js Coby 1/05/2025, array JavaScript
 */
+
+console.log("t06_arrays.js")
