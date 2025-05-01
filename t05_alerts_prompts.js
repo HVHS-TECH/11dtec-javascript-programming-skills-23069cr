@@ -8,4 +8,4 @@ console.log("do it")
  */
 alert("What's your name. TELL ME NOW!!!!!!!!!")
 
-var userName = prompt("what is your name?", "Bob")
+var userName = prompt("What is your name?\n Please tell me", "Bob")
