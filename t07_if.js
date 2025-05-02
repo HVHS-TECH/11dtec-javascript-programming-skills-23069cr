@@ -6,7 +6,7 @@ t07_if.js Coby 1/05/2025, array JavaScript
 alert("What's your Age. TELL ME NOW!!!!!!!!!")
 
 var userAge = prompt("What is your age?")
-if (userAge == "70"){
+if (userAge > "70"){
     alert("You're practically dust");
 } else {
     alert("age up you pre unc");
