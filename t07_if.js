@@ -7,9 +7,9 @@ alert("What's your Age. TELL ME NOW!!!!!!!!!")
 
 var userAge = prompt("What is your age?")
 if (userAge == "70"){
-    alert("old hag");
+    alert("You're practically dust");
 } else {
-    alert("age up you old hag");
+    alert("age up you pre unc");
 }
 
 if (userAge == "18"){
