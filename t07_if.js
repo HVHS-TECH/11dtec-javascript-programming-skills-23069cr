@@ -9,15 +9,18 @@ var userAge = prompt("What is your age?")
 if (userAge > "70"){
     alert("You're practically dust");
 } else {
-    alert("age up you pre unc");
+    alert("damn ok");
 }
+
+if (userAge > "18"){
+    alert("You are an adult");
+}
+
 
 if (userAge == "18"){
     alert("you adult, you old person");
 }
-if ("Gay"){
-    alert("Don't discriminate");
-}
+
 /*
  Main code
  */
