@@ -12,11 +12,6 @@ if (userAge > "70"){
     alert("damn ok");
 }
 
-if (userAge > "18"){
-    alert("You are an adult
-        ");
-}
-
 
 if (userAge == "18"){
     alert("you adult, you old person");
