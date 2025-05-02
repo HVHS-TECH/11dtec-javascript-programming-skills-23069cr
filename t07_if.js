@@ -19,7 +19,7 @@ if (userAge == "18"){
 
 var name = prompt("What is your name?")
 
-prompt("hello " +name+ ", welcome. Do you like the band Queen")
+alert("hello " +name+ ", welcome. Do you like the band")
 /*
  Main code
  */
