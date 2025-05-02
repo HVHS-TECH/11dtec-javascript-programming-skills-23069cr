@@ -15,6 +15,9 @@ if (userAge > "70"){
 if (userAge == "18"){
     alert("you adult, you old person");
 }
+if ("Gay"){
+    alert("Don't discriminate");
+}
 /*
  Main code
  */
