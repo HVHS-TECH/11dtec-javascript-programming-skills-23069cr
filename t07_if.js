@@ -13,7 +13,8 @@ if (userAge > "70"){
 }
 
 if (userAge > "18"){
-    alert("You are an adult");
+    alert("You are an adult
+        ");
 }
 
 
