@@ -22,5 +22,5 @@ function button() {
     Math.random(2);
     userMoney = userMoney * 2;
     userMoney = userMoney / 2;
-console.log(userMoney + 1)
+console.log(userMoney + Math.random)
 }
