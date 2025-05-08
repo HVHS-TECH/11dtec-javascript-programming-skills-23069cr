@@ -3,9 +3,9 @@ t10_activate_via_button.js Coby 6/05/2025, button JavaScript
 */
 
 //Variables
-var userMoney = 0;
-var random = Math.random();
-var final = random * 2;
+var number = 0;
+var random = 0;
+var final = 0;
 /*
  Main code
  */
@@ -15,11 +15,12 @@ var final = random * 2;
  Functions
  */
 function start() {
-    userMoney = userMoney + 1;
-console.log(userMoney + 1)
+    number = number + 1;
+console.log(number + 1)
 }
 
 function button() {
-    userMoney = userMoney * final;
-console.log(userMoney * final)
+    random = 2 * Math.random();
+    number = number * random;
+console.log(number);
 }
