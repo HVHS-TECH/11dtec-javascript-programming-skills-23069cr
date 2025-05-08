@@ -21,5 +21,4 @@ console.log(userMoney + 1)
 
 function button() {
 console.log(userMoney * final)
-console.log(userMoney = final)
 }
