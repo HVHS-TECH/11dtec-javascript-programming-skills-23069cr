@@ -8,7 +8,7 @@ var Age;
 /*
  Main code
  */
-
+Age = prompt("Whagt is your age")
  /* 
  Functions
  */
