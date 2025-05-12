@@ -16,7 +16,7 @@ var final = 0;
  */
 function start() {
     number = number + 1;
-console.log(number + 1)
+console.log(number)
 }
 
 function button() {
