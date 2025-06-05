@@ -12,8 +12,6 @@ password = prompt("That's not the password. \n That's not the password you scum.
 }
 alert("Welcome")
  
- /* 
- Functions
- */
+
 
 
