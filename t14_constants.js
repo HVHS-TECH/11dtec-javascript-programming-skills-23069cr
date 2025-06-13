@@ -8,7 +8,7 @@ var Age;
 /*
  Main code
  */
-Age = prompt("Whagt is your age");
+Age = prompt("What is your age");
 if (Age >= drivingAge){
    alert("You are old enough to drive, if your above the age of 18 you should drink and drive")
 } else{
